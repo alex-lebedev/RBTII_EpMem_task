@@ -1,0 +1,6 @@
+onsets,img,cr,fix,type,dur,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,skipFIX.keys,skipFIX.rt,skip.keys,skip.rt,trigger.keys,trigger.rt,resp.keys,resp.corr,date,frameRate,expName,session,participant,
+,,,,,,,,,,space,2.04970420855,,,,,,,2017_Oct_06_1634,100.027987198,untitled,001,test,
+,,,,,,,,,,,,space,33.8298100304,,,,,2017_Oct_06_1634,100.027987198,untitled,001,test,
+,,,,,,,,,,,,,,5,2.8402288864,,,2017_Oct_06_1634,100.027987198,untitled,001,test,
+0,stim/556_i.jpg,2,2.13,novel,4.37,0,0,0,0,,,,,,,None,0,2017_Oct_06_1634,100.027987198,untitled,001,test,
+6.5,stim/38_o.jpg,1,2.06,last,5.13,0,1,1,1,,,,,,,None,0,2017_Oct_06_1634,100.027987198,untitled,001,test,
